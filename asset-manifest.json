@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reach-react-test/static/css/main.55d1b605.css",
+    "main.js": "/reach-react-test/static/js/main.d69d97f6.js",
+    "index.html": "/reach-react-test/index.html",
+    "main.55d1b605.css.map": "/reach-react-test/static/css/main.55d1b605.css.map",
+    "main.d69d97f6.js.map": "/reach-react-test/static/js/main.d69d97f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d1b605.css",
+    "static/js/main.d69d97f6.js"
+  ]
+}
